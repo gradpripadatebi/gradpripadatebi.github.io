@@ -1,0 +1,7 @@
+# theme: jekyll-theme-time-machine
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,12 +1,8 @@
----
-layout: default
-title: Druga strana
----
 # Ovo je druga strana
 ## Podnaslov
 A sta ima na njoj?
 
-Па наравно да нема ништа!
+Па *наравно* **да** ***нема*** ништа!
 ;)
 
 [Ajde nazad](index)
